@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="003:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/003_jar2</output-path>
+    <root id="root">
+      <element id="archive" name="003.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="003" />
+      </element>
+      <element id="file-copy" path="$PROJECT_DIR$/mysql-connector-java-5.1.44-bin.jar" />
+    </root>
+  </artifact>
+</component>
